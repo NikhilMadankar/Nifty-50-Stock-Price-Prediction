@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Checkpoints & Virtual Environments
+.ipynb_checkpoints
+venv/
+.venv/
+env/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
